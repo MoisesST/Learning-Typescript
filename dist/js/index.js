@@ -137,7 +137,7 @@ let Person = class Person {
     }
 };
 Person = __decorate([
-    BaseParameters() // // decorators
+    BaseParameters() // // decorator
 ], Person);
 const sam = new Person('Sam');
 console.log(sam);
